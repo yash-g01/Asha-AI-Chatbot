@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn
+openai
+faiss-cpu
+requests
+redis
+python-jose
+langdetect
+deep-translator
+python-multipart
+pydantic
+PyJWT
+python-dotenv
