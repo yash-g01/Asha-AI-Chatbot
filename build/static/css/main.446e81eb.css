@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;body,html{color:#f1f1f1;font-family:Inter,sans-serif;margin:0;padding:0}body:active,body:link,body:visited,html{color:#add8e6}.typing-indicator{align-items:center;display:flex;gap:5px;height:20px;margin-left:10px;margin-top:10px}.typing-dot{animation:blink 1.4s infinite both;background-color:#888;border-radius:50%;height:8px;width:8px}.typing-dot:nth-child(2){animation-delay:.2s}.typing-dot:nth-child(3){animation-delay:.4s}@keyframes blink{0%,80%,to{opacity:0}40%{opacity:1}}
+/*# sourceMappingURL=main.446e81eb.css.map*/
